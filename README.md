@@ -2,7 +2,7 @@
 
 ---
 # Motive
-There are a lot of LAB in University of Aizu and they has Web Pages.
+There are a lot of LAB in University of Aizu and they have Web Pages.
 But these Web page are uncool. So I wil create Cool Web Page for My LAB.
  
 ---
